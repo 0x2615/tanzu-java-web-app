@@ -54,3 +54,4 @@ You can use the IDE plugins for VSCode or IntelliJ IDEA to enable live update. Y
 ## Tests
 1. Test 1
 1. Test 2
+1. Test 3
